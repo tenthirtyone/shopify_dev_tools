@@ -1,0 +1,22 @@
+{
+  "name": "shopify_dev_tools",
+  "version": "1.0.0",
+  "description": "shopify tools to make development kinder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenthirtyone/shopify_dev_tools.git"
+  },
+  "author": "tenthirtyone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenthirtyone/shopify_dev_tools/issues"
+  },
+  "homepage": "https://github.com/tenthirtyone/shopify_dev_tools#readme",
+  "dependencies": {
+    "shopify-node-api": "^1.7.5"
+  }
+}
